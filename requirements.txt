@@ -1,0 +1,10 @@
+twikit
+streamlit
+pandas
+numpy
+plotly
+python-dotenv
+sentence-transformers
+textstat
+langdetect
+scikit-learn
